@@ -1,21 +1,38 @@
 ﻿[
-	{
-		"Author": "Wariela",
-		"Name": "On the fly translator",
-		"Description": "A simple plugin that translate spell names into another language.",
-		"InternalName": "On the fly translator",
-		"AssemblyVersion": "0.0.0.2",
-		"RepoUrl": "https://github.com/Wariela/XIVOnTheFlyTranslator",
-		"IconUrl": "https://raw.githubusercontent.com/Wariela/dalamud-repo/main/icon.png",
-		"ApplicableVersion": "any",
-		"Tags": [ "translator", "badly_optimized_sorry"],
-		"DalamudApiLevel": 10,
-		"IsHide": "False",
-		"IsTestingExclusive": "False",
-		"LastUpdated": 0,
-		"DownloadCount": 0,
-		"DownloadLinkInstall": "https://github.com/Wariela/XIVOnTheFlyTranslator/releases/download/release/latest.zip",
-		"DownloadLinkTesting": "https://github.com/Wariela/XIVOnTheFlyTranslator/releases/download/release/latest.zip",
-		"DownloadLinkUpdate": "https://github.com/Wariela/XIVOnTheFlyTranslator/releases/download/release/latest.zip"
-	}
+    {
+        "Author": "Wariela",
+        "Name": "On the fly translator",
+        "Punchline": "A simple plugin that translate spell names into another language.",
+        "Description": "A simple plugin that translate spell names into another language.",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "translator",
+            "translation",
+            "spells"
+        ],
+        "CategoryTags": null,
+        "IsHide": false,
+        "InternalName": "Lemegeton",
+        "AssemblyVersion": "1.0.4.2",
+        "TestingAssemblyVersion": null,
+        "IsTestingExclusive": false,
+        "RepoUrl": "https://github.com/Wariela/XIVOnTheFlyTranslator",
+        "DalamudApiLevel": 10,
+        "TestingDalamudApiLevel": null,
+        "DownloadCount": 0,
+        "LastUpdate": 0,
+        "DownloadLinkInstall": "https://github.com/Wariela/XIVOnTheFlyTranslator/releases/download/release/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Wariela/XIVOnTheFlyTranslator/releases/download/release/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Wariela/XIVOnTheFlyTranslator/releases/download/release/latest.zip",
+        "LoadRequiredState": 0,
+        "LoadSync": false,
+        "LoadPriority": 0,
+        "CanUnloadAsync": false,
+        "SupportsProfiles": true,
+        "ImageUrls": null,
+        "IconUrl": "https://raw.githubusercontent.com/Wariela/dalamud-repo/main/icon.png",
+        "AcceptsFeedback": true,
+        "FeedbackMessage": null,
+        "_Dip17Channel": null
+      }
 ]
