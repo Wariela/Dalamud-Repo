@@ -1,0 +1,21 @@
+﻿[
+	{
+		"Author": "Wariela",
+		"Name": "On the fly translator",
+		"Description": "A simple plugin that translate spell names into another language.",
+		"InternalName": "On the fly translator",
+		"AssemblyVersion": "0.0.0.2",
+		"RepoUrl": "https://github.com/Wariela/OnTheFlyTranslator",
+		"IconUrl": "https://raw.githubusercontent.com/Wariela/dalamud-repo/main/icon.png",
+		"ApplicableVersion": "any",
+		"Tags": [ "translator", "badly_optimized_sorry"],
+		"DalamudApiLevel": 10,
+		"IsHide": "False",
+		"IsTestingExclusive": "False",
+		"LastUpdated": 0,
+		"DownloadCount": 0,
+		"DownloadLinkInstall": "https://github.com/Wariela/OnTheFlyTranslator/releases/download/release/OnTheFlyTransator_0_0_0_2.zip",
+		"DownloadLinkTesting": "https://github.com/Wariela/OnTheFlyTranslator/releases/download/release/OnTheFlyTransator_0_0_0_2.zip",
+		"DownloadLinkUpdate": "https://github.com/Wariela/OnTheFlyTranslator/releases/download/release/OnTheFlyTransator_0_0_0_2.zip"
+	}
+]
