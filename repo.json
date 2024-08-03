@@ -5,7 +5,7 @@
 		"Description": "A simple plugin that translate spell names into another language.",
 		"InternalName": "On the fly translator",
 		"AssemblyVersion": "0.0.0.2",
-		"RepoUrl": "https://github.com/Wariela/OnTheFlyTranslator",
+		"RepoUrl": "https://github.com/Wariela/XIVOnTheFlyTranslator",
 		"IconUrl": "https://raw.githubusercontent.com/Wariela/dalamud-repo/main/icon.png",
 		"ApplicableVersion": "any",
 		"Tags": [ "translator", "badly_optimized_sorry"],
