@@ -1,7 +1,7 @@
 ﻿[
     {
         "Author": "Wariela",
-        "Name": "On the fly translator",
+        "Name": "OnTheFlyTranslator",
         "Punchline": "A simple plugin that translate spell names into another language.",
         "Description": "A simple plugin that translate spell names into another language.",
         "ApplicableVersion": "any",
@@ -20,7 +20,7 @@
         "DalamudApiLevel": 13,
         "TestingDalamudApiLevel": null,
         "DownloadCount": 0,
-        "LastUpdate": 2,
+        "LastUpdate": 4,
         "DownloadLinkInstall": "https://github.com/Wariela/XIVOnTheFlyTranslator/releases/download/release/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Wariela/XIVOnTheFlyTranslator/releases/download/release/latest.zip",
         "DownloadLinkTesting": "https://github.com/Wariela/XIVOnTheFlyTranslator/releases/download/release/latest.zip",
@@ -36,4 +36,5 @@
         "_Dip17Channel": null
     }
 ]
+
 
