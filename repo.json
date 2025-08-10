@@ -12,7 +12,7 @@
         ],
         "CategoryTags": null,
         "IsHide": false,
-        "InternalName": "On the fly translator",
+        "InternalName": "OnTheFlyTranslator",
         "AssemblyVersion": "0.0.1.0",
         "TestingAssemblyVersion": null,
         "IsTestingExclusive": false,
@@ -36,5 +36,6 @@
         "_Dip17Channel": null
     }
 ]
+
 
 
